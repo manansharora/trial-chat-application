@@ -1,0 +1,9 @@
+{
+	"name": "chat-using-sockets-mk1",
+	"version": "1.0",
+	"description": "trial socket application",
+	"dependencies": {
+		"express": "^4.17.1",
+		"socket.io": "^3.1.2"
+	}
+}
